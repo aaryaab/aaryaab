@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aarya Brahmane</h1>
 <h3 align="center">Passionate Data Enthusiast | Proficient in Data Science, Machine Learning, Data Analysis, and Visualization</h3>
-<img align="right" alt="Coding" width="400" src="[[https://pro2-bar-s3-cdn-cf1.myportfolio.com/97b1d4bc028e3890ce75267deb159e95/24e71a4a26b5d319d6ac79ee_rw_600.gif?h=4c5ec98e37c4fea0b6776ef182152b43](https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif)](https://pro2-bar-s3-cdn-cf1.myportfolio.com/97b1d4bc028e3890ce75267deb159e95/24e71a4a26b5d319d6ac79ee_rw_600.gif?h=4c5ec98e37c4fea0b6776ef182152b43)">
-- 🌱 I’m currently learning **LLMs**
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+- 🌱 I’m currently learning LLMs
 
 - 📝 I regularly write articles on [https://medium.com/@aaryabrahmane](https://medium.com/@aaryabrahmane)
 
@@ -9,9 +9,11 @@
 
 - ⚡ Fun fact **I love reading books & playing soccer**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Summary
+
+I am a Data Science & Analytics professional, a graduate of Texas A&M University with a Master's degree in Management Information Systems, specializing in Business Intelligence & Analytics.
+
+With around 2 years of hands-on experience developing predictive analytics solutions and building reports for manufacturing and financial services organizations, I bring proficiency in data analysis and predictive modeling. My professional experience includes roles at Caterpillar and Navy Federal Credit Union, where I utilized my data analytics and data science skills to proactively solve complex problems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
