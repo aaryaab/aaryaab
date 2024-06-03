@@ -15,6 +15,11 @@ I am a Data Science & Analytics professional, a graduate of Texas A&M University
 
 With around 2 years of hands-on experience developing predictive analytics solutions and building reports for manufacturing and financial services organizations, I bring proficiency in data analysis and predictive modeling. My professional experience includes roles at Caterpillar and Navy Federal Credit Union, where I utilized my data analytics and data science skills to proactively solve complex problems.
 
+### Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aaryabrahmane11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aaryabrahmane11/" height="30" width="40" /></a>
